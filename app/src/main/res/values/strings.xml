@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PSPEjercicio1Metodo</string>
+    <string name="tvTIP">Sus ips son:</string>
+    <string name="tvCon">Estado de la conexión a internet:</string>
+    <string name="conectado">Conectado.</string>
+    <string name="desconectado">Desconectado.</string>
+    <string name="tvInfoCon">Información sobre su conexión.</string>
+</resources>
